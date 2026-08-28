@@ -6,27 +6,27 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dimitarkaradzhov.com/publications.html</loc>
+    <loc>https://dimitarkaradzhov.com/publications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dimitarkaradzhov.com/projects.html</loc>
+    <loc>https://dimitarkaradzhov.com/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dimitarkaradzhov.com/book.html</loc>
+    <loc>https://dimitarkaradzhov.com/book/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dimitarkaradzhov.com/speaking.html</loc>
+    <loc>https://dimitarkaradzhov.com/speaking/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dimitarkaradzhov.com/newsletter.html</loc>
+    <loc>https://dimitarkaradzhov.com/newsletter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
