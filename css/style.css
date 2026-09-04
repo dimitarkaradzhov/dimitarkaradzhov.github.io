@@ -426,7 +426,15 @@ section.soft { background: var(--bg-soft); }
   background: var(--navy);
   color: #fff;
   transform: rotateY(180deg);
+  justify-content: flex-start;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,255,255,0.5) transparent;
 }
+
+.flip-back::-webkit-scrollbar { width: 6px; }
+.flip-back::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.5); border-radius: 3px; }
+.flip-back::-webkit-scrollbar-track { background: transparent; }
 
 .flip-back p {
   font-size: 0.82rem;
