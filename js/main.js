@@ -63,3 +63,13 @@
     if (e.key === 'Escape') closePopup();
   });
 })();
+
+// Tap-to-flip cards (book sneak peek)
+(function () {
+  var cards = document.querySelectorAll('.flip-card');
+  cards.forEach(function (card) {
+    card.addEventListener('click', function () {
+      card.classList.toggle('is-flipped');
+    });
+  });
+})();
