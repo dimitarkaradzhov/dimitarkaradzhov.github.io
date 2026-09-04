@@ -498,6 +498,13 @@ section.soft { background: var(--bg-soft); }
 .legend-dot.domain-environment { background: var(--domain-environment); }
 .legend-dot.domain-academic { background: var(--domain-academic); }
 
+.note {
+  font-size: 0.86rem;
+  color: var(--grey-light);
+  font-style: italic;
+  margin-top: 4px;
+}
+
 .status-pill {
   display: inline-block;
   font-size: 0.75rem;
